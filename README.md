@@ -47,6 +47,7 @@ public class Main {
         System.out.println(p.getBill());
     }
 }
+
 Sample Bill Output
 yaml
 
